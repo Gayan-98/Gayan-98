@@ -5,3 +5,4 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Gayan-98/Gayan-98)
 ![GitHub commit graph](https://github.com/users/Gayan-98/contributions)
+![GitHub contributions graph](https://activity-graph.herokuapp.com/graph?username=Gayan-98)

@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 10px;">
+<div style="background-color: #FF0000; padding: 10px;">
   # Hello, World! 👋
 
   - [LinkedIn](linkedin.com/in/gayan98)
